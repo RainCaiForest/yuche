@@ -1,0 +1,19 @@
+/* Add here all your css styles (customizations) */
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+#page ul{
+    margin: 0 auto;
+}
+#page ul li{
+    /*float: left;*/
+    margin:0 15px;
+    display:inline;
+}
+#page ul li.active a{
+    color: #1a1a1a;
+}
+
