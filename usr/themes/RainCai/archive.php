@@ -13,21 +13,9 @@ $this->need('header.php');
             <div class="shortcode-html">
                 <!-- Simple Colored -->
                 <ul class="u-list-inline">
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/38cheping" title="38车评中心">38车评中心</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1364" title="大家车言论">大家车言论</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1369" title="新车评">新车评</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1397" title="一辆ACarTV">一辆ACarTV</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1401" title="爱极客">爱极客</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1395" title="易车">易车</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1386" title="Y车评">Y车评</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1432" title="初晓敏">初晓敏</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1439" title="美女">美女</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1382" title="车比得">车比得</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1361" title="汽车洋葱圈">汽车洋葱圈</a></li>
-                     <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1354" title="晓敏AUTO">晓敏AUTO</a></li>
-                      <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1380" title="爽爽侃车">爽爽侃车</a></li>
-                       <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1344" title="踢车帮">踢车帮</a></li>
-                        <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1383" title="李老鼠说车">李老鼠说车</a></li>
+                    <?php $tagList = getIntTag(); foreach($tagList as $v){?>
+                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/<?php echo $v['id'];?>" title="<?php echo $v['tag'];?>"><?php echo $v['tag'];?></a></li>
+                    <?php } ?>
                    
                 </ul>
 

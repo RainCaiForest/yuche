@@ -22,23 +22,23 @@
                 <ul class="list-unstyled mb-0">
                     <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.mydrivers.com/">新车评</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.raincai.com/">鱼车网</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.91.com/">鱼车网</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.yuchewang.com/">鱼车网</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.romzhijia.net/">RainCai|Blog</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.likerain.cn/">RainCai|Blog</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.qianzhan.com/">蔡雨</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://qmshtown.cn/">清明上河镇</a>
                     </li>
                     <li class="g-px-0 g-my-8">
                         <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.iheima.com/">测试</a>
+                        <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.yuchewang.net/">汽车视频大全</a>
                     </li>
                 </ul>
                 <!-- End News -->
@@ -46,29 +46,29 @@
 
             <div class="col-6 col-md-3 g-brd-right--md g-brd-secondary-light-v2 g-mb-30 g-mb-0--md">
                 <div class="g-pl-10--md">
-                    <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">Opinion</h3>
+                    <h3 class="h6 g-font-primary g-font-weight-700 text-uppercase mb-3">友情链接</h3>
 
                     <!-- Opinion -->
                     <ul class="list-unstyled mb-0">
                         <li class="g-px-0 g-my-8">
                             <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Today's Opinion</a>
+                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="https://www.baidu.com">百度</a>
                         </li>
                         <li class="g-px-0 g-my-8">
                             <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Contributing Writers</a>
+                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="https://www.yiche.com">易车网</a>
                         </li>
                         <li class="g-px-0 g-my-8">
                             <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Letters</a>
+                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.xincheping.com/">新车评</a>
                         </li>
                         <li class="g-px-0 g-my-8">
                             <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Sunday Review</a>
+                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="http://www.djcars.cn/">大家车言论</a>
                         </li>
                         <li class="g-px-0 g-my-8">
                             <i class="g-color-primary mr-2 fa fa-angle-right"></i>
-                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="#!">Taking Note</a>
+                            <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover g-font-size-13 g-pl-0 g-pl-7--hover g-transition-0_3 g-py-7" href="https://www.autohome.com.cn/">汽车之家</a>
                         </li>
 
                     </ul>
@@ -112,12 +112,15 @@
         <div class="col-md-4 g-brd-right--md g-brd-secondary-light-v2 g-mb-30">
             <!-- Links -->
             <ul class="list-inline mb-0">
-                <li class="list-inline-item g-pl-0 g-pr-10">
-                    <span class="u-link-v5 g-color-secondary-light-v1 g-font-size-12">邮箱: rainforestcai@gmail.com</span>
-                </li>
                 <li class="list-inline-item g-px-10">
                     <span class="u-link-v5 g-color-secondary-light-v1 g-font-size-12">QQ: 1012359715</span>
                 </li>
+                <li class="list-inline-item g-pl-0 g-pr-10">
+                    <span class="u-link-v5 g-color-secondary-light-v1 g-font-size-12"> <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1273154538'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s19.cnzz.com/z_stat.php%3Fid%3D1273154538%26show%3Dpic1' type='text/javascript'%3E%3C/script%3E"));</script></span>
+                </li>
+                
+                
+
             </ul>
             <!-- End Links -->
         </div>

@@ -13,17 +13,17 @@ $this->need('header.php');
                 <!-- Article -->
                 <article class="u-block-hover">
                     <figure class="u-shadow-v25 g-bg-cover g-bg-white-gradient-opacity-v1--after">
-                        <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="https://vthumb.ykimg.com/054101015A8540D28B324CA65C460B23" alt="凹凸用车：怼上去也不怕！这个时候你可以不负责-新车评">
+                        <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="https://vthumb.ykimg.com/054101015AA891AC8B3C46A63D77BC18" alt="长安第二代逸动, 这些贴心的功能, 你家里的夫人一定会喜欢">
                     </figure>
 
                 <span class="g-hidden-xs-down g-pos-abs g-top-30 g-left-30">
-                  <a class="btn btn-xs u-btn-darkpurple text-uppercase rounded-0" href="/tag/1369/">新车评</a>
+                  <a class="btn btn-xs u-btn-darkpurple text-uppercase rounded-0" title="车映讯" href="/tag/1508/">车映讯</a>
                 </span>
 
                     <div class="g-pos-abs g-bottom-30 g-left-30 g-right-30">
 
                         <h3 class="h5 g-my-10">
-                            <a class="g-color-white g-color-white--hover" title="凹凸用车：怼上去也不怕！这个时候你可以不负责-新车评" href="http://yuche.likerain.cn/index.php/archives/9566/">凹凸用车：怼上去也不怕！这个时候你可以不负责-新车评</a>
+                            <a class="g-color-white g-color-white--hover" title="长安第二代逸动, 这些贴心的功能, 你家里的夫人一定会喜欢" href="/archives/46624/">长安第二代逸动, 这些贴心的功能, 你家里的夫人一定会喜欢</a>
                         </h3>
 
                     </div>
@@ -35,17 +35,17 @@ $this->need('header.php');
                 <!-- Article -->
                 <article class="u-block-hover">
                     <figure class="u-shadow-v25 g-bg-cover g-bg-white-gradient-opacity-v1--after">
-                        <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="https://vthumb.ykimg.com/054101015A938A008B324CA653EA83CE" alt="袁启聪试驾体验讴歌TLX-L-大家车言论出品">
+                        <img class="img-fluid w-100 u-block-hover__main--zoom-v1" src="https://vthumb.ykimg.com/054101015AA8A26F8B324CA8FEBB35EE" alt="这个对比就想让你知道: 十万预算买SUV, 首选自主车还是合资车? -大家车言论出品">
                     </figure>
 
                 <span class="g-hidden-xs-down g-pos-abs g-top-30 g-left-30">
-                  <a class="btn btn-xs u-btn-darkpurple text-uppercase rounded-0" href="/tag/1364/">大家车言论</a>
+                  <a class="btn btn-xs u-btn-darkpurple text-uppercase rounded-0" href="/tag/47280/" title="大家车言论">大家车言论</a>
                 </span>
 
                     <div class="g-pos-abs g-bottom-30 g-left-30 g-right-30">
 
                         <h3 class="h5 g-my-10">
-                            <a class="g-color-white g-color-white--hover" title="袁启聪试驾体验讴歌TLX-L-大家车言论出品" href="/archives/32342/">袁启聪试驾体验讴歌TLX-L-大家车言论出品</a>
+                            <a class="g-color-white g-color-white--hover" title="这个对比就想让你知道: 十万预算买SUV, 首选自主车还是合资车? -大家车言论出品" href="/archives/47280/">这个对比就想让你知道: 十万预算买SUV, 首选自主车还是合资车? -大家车言论出品</a>
                         </h3>
 
                     </div>
@@ -58,14 +58,14 @@ $this->need('header.php');
                 <!-- Article -->
                 <article class="u-block-hover">
                     <figure class="u-shadow-v25 u-bg-overlay g-bg-white-gradient-opacity-v1--after">
-                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/054101015A6B024F8B7B449CFED6828C" alt="涓子静态体验兰博基尼 Urus-大家车言论出品">
+                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/054101015AAB819CADCA61A5AAA7A93D" alt="哈弗H4与吉利博越">
                     </figure>
 
                     <div class="w-100 text-center g-absolute-centered g-px-30">
-                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" href="/tag/1431/">涓子</a>
+                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" href="/tag/1506/" title="车生活">车生活</a>
 
                         <h3 class="h5 g-mt-10">
-                            <a class="g-color-white" href="/archives/8799/" title="涓子静态体验兰博基尼 Urus-大家车言论出品">涓子静态体验兰博基尼 Urus-大家车言论出品</a>
+                            <a class="g-color-white" href="/archives/48068/" title="《车生活TV · 一周二车》——哈弗H4与吉利博越-车生活">哈弗H4与吉利博越-车生活</a>
                         </h3>
 
                     </div>
@@ -77,14 +77,14 @@ $this->need('header.php');
                 <!-- Article -->
                 <article class="u-block-hover">
                     <figure class="u-shadow-v25 u-bg-overlay g-bg-white-gradient-opacity-v1--after">
-                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/0541040859E569A4000001230309EA1C" alt="美女主持汪聪空降成都, 原来是给汽车生活杂志拍封面-吗mal麻辣车事">
+                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/054101015AA93E468B3255A5BE196D0A" alt="《踢车帮》车文字T: 15天达喀尔疯狂圆梦之旅(4)">
                     </figure>
 
                     <div class="w-100 text-center g-absolute-centered g-px-30">
-                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" href="/tag/1439/">美女</a>
+                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" href="/tag/1344/" title="踢车帮">踢车帮</a>
 
                         <h3 class="h5 g-mt-10">
-                            <a class="g-color-white" href="/archives/8799/" title="美女主持汪聪空降成都, 原来是给汽车生活杂志拍封面-吗mal麻辣车事">美女主持汪聪空降成都, 原来是给汽车生活杂志拍封面-吗mal麻辣车事</a>
+                            <a class="g-color-white" href="/archives/47791/" title="《踢车帮》车文字T: 15天达喀尔疯狂圆梦之旅(4)">车文字T: 15天达喀尔疯狂圆梦之旅(4)</a>
                         </h3>
 
                     </div>
@@ -96,14 +96,14 @@ $this->need('header.php');
                 <!-- Article -->
                 <article class="u-block-hover">
                     <figure class="u-shadow-v25 u-bg-overlay g-bg-white-gradient-opacity-v1--after">
-                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/054101015A55CB908B324C99E0DB77AC" alt="初晓敏试驾纳智捷U5: 拯救女司机开车, 靠什么?">
+                        <img class="u-block-hover__main--zoom-v1 img-fluid w-100" src="https://vthumb.ykimg.com/054101015AA621E78B3C46A637EB6BA2" alt="2018款汉兰达试驾视频：去掉3.5L普及ACC，加配不加价">
                     </figure>
 
                     <div class="w-100 text-center g-absolute-centered g-px-30">
-                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" href="/tag/1432">初晓敏</a>
+                        <a class="btn btn-xs u-btn-pink text-uppercase rounded-0" title="新车评" href="/tag/1369">新车评</a>
 
                         <h3 class="h5 g-mt-10">
-                            <a class="g-color-white" href="/archives/8799/" title="初晓敏试驾纳智捷U5: 拯救女司机开车, 靠什么?">初晓敏试驾纳智捷U5: 拯救女司机开车, 靠什么?</a>
+                            <a class="g-color-white" href="/archives/47264/" title="2018款汉兰达试驾视频：去掉3.5L普及ACC，加配不加价">2018款汉兰达试驾视频：去掉3.5L普及ACC，加配不加价</a>
                         </h3>
 
                     </div>
@@ -138,13 +138,13 @@ $this->need('header.php');
                     <?php } ?>
 
                     <div class="g-brd-around g-brd-secondary-light-v2 g-bg-white g-pa-20">
-                        <h3 class="g-font-size-16"><a class="u-link-v5 g-color-main g-color-primary--hover" href="<?php $indexpub->permalink(); ?>"><?php $indexpub->title(); ?></a></h3>
+                        <h3 class="g-font-size-16"><a class="u-link-v5 g-color-main g-color-primary--hover" title="<?php $indexpub->title(); ?>" href="<?php $indexpub->permalink(); ?>"><?php $indexpub->title(); ?></a></h3>
                         <hr class="g-brd-secondary-light-v2 my-3">
 
                         <!-- Info -->
                         <ul class="d-flex list-inline mb-0">
                             <li class="list-inline-item mx-0">
-                                <a class="d-inline-block g-color-secondary-dark-v1 g-color-primary--hover g-font-size-12 g-text-underline--none--hover g-pr-5 g-py-4" href="#!"><?php echo date("Y-m-d",$indexpub->created); ?></a>
+                                <sapn class="d-inline-block g-color-secondary-dark-v1 g-color-primary--hover g-font-size-12 g-text-underline--none--hover g-pr-5 g-py-4" href="javascript:;"><?php echo date("Y-m-d",$indexpub->created); ?></sapn>
                             </li>
                             <li class="list-inline-item ml-auto mr-0">
                                  <span class="d-inline-block g-color-secondary-dark-v1 g-font-size-12 g-px-5 g-py-4">
@@ -177,7 +177,7 @@ $this->need('header.php');
                 <?php } ?>
                 <div class="g-bg-white g-pa-10 g-pb-5">
                     <h2 class="h6 g-color-black g-font-weight-600 mb-3">
-                        <a class="u-link-v5 g-color-gray-dark-v3 g-color-primary--hover" href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
+                        <a class="u-link-v5 g-color-gray-dark-v3 g-color-primary--hover" title="<?php $newcar->title(); ?>" href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
                     </h2>
                 </div>
             </article>
@@ -205,17 +205,16 @@ $this->need('header.php');
                                  alt="Image Description">
                         <?php } ?>
 
-                                            <figcaption class="g-pos-abs g-top-10 g-left-10">
-                                                <span class="btn btn-xs u-btn-black text-uppercase rounded-0" style="opacity: 0.58"> <?php $indexpub->duration(); ?>分</span>
-                                            </figcaption>
+                            <figcaption class="g-pos-abs g-top-10 g-left-10">
+                                <span class="btn btn-xs u-btn-black text-uppercase rounded-0" style="opacity: 0.58"> <?php var_dump($indexpub->duration()); ?>分</span>
+                            </figcaption>
                         <a href="<?php $newcar->permalink(); ?>" class="u-icon-v3 u-icon-size--sm g-font-size-13 g-bg-white g-bg-black--hover g-color-white--hover rounded-circle g-cursor-pointer g-absolute-centered">
                             <i class="fa fa-play g-left-2"></i>
                         </a>
                     </figure>
 
                     <h3 class="g-font-size-16 g-mb-10">
-                        <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover"
-                           href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
+                        <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" title="<?php $newcar->title(); ?>" href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
                     </h3>
                 </article>
             </div>
@@ -242,7 +241,7 @@ $this->need('header.php');
                 <?php } ?>
                 <div class="g-bg-white g-pa-10 g-pb-5">
                     <h2 class="h6 g-color-black g-font-weight-600 mb-3">
-                        <a class="u-link-v5 g-color-gray-dark-v3 g-color-primary--hover" href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
+                        <a class="u-link-v5 g-color-gray-dark-v3 g-color-primary--hover" title="<?php $newcar->title(); ?>" href="<?php $newcar->permalink(); ?>"><?php $newcar->title(); ?></a>
                     </h2>
                 </div>
             </article>
@@ -265,21 +264,9 @@ $this->need('header.php');
             </div>
             <!-- Simple Colored -->
                 <ul class="u-list-inline">
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/38cheping" title="38车评中心">38车评中心</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1364" title="大家车言论">大家车言论</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1369" title="新车评">新车评</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1397" title="一辆ACarTV">一辆ACarTV</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1401" title="爱极客">爱极客</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1395" title="易车">易车</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1386" title="Y车评">Y车评</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1432" title="初晓敏">初晓敏</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1439" title="美女">美女</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1382" title="车比得">车比得</a></li>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1361" title="汽车洋葱圈">汽车洋葱圈</a></li>
-                     <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1354" title="晓敏AUTO">晓敏AUTO</a></li>
-                      <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1380" title="爽爽侃车">爽爽侃车</a></li>
-                       <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1344" title="踢车帮">踢车帮</a></li>
-                        <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/1383" title="李老鼠说车">李老鼠说车</a></li>
+                    <?php $tagList = getIntTag(); foreach($tagList as $v){?>
+                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/<?php echo $v['id'];?>" title="<?php echo $v['tag'];?>"><?php echo $v['tag'];?></a></li>
+                    <?php } ?>
                    
                 </ul>
 

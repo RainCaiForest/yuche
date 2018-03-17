@@ -14,6 +14,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="baidu-site-verification" content="7DLqBLieOW" />
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="<?php $this->options->themeUrl('./favicon.ico'); ?>">
@@ -46,6 +47,24 @@
     <!-- CSS Customization -->
     <link rel="stylesheet" href="<?php $this->options->themeUrl('./css/custom.css'); ?>">
 
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-115902495-1"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'UA-115902495-1');
+    </script>
+    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({
+        google_ad_client: "ca-pub-6150431149474493",
+        enable_page_level_ads: true
+      });
+    </script>
+
+
     <?php $this->header(); ?>
   </head>
   <body>
@@ -66,7 +85,7 @@
 
             <!-- Logo -->
             <a href="<?php $this->options->siteUrl(); ?>" class="navbar-brand">
-              <img src="https://www.raincai.com/usr/themes/pinghsu/yuchewang.png" style="height: 48px;" alt="Image Description">
+              <img src="https://www.yuchewang.net/usr/themes/RainCai/yuchewang.png" style="height: 48px;" alt="鱼车网">
             </a>
             <!-- End Logo -->
 
@@ -75,10 +94,12 @@
               <ul class="navbar-nav text-uppercase g-font-weight-400">
                 <?php $this->widget('Widget_Metas_Category_List')->to($category); ?>
                 <li class="nav-item g-mx-20--lg <?php if($this->is('index')){echo "active";}?>"><a href="<?php $this->options->siteUrl(); ?>" class="nav-link px-0">首页</a></li>
-                <li class="nav-item g-mx-20--lg "><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/38cheping/" title="38车评中心">38车评中心</a>
-                <li class="nav-item g-mx-20--lg"><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/1364/" title="大家车言论">大家车言论</a>
+                <?php $navList = navList(); foreach($navList as $v){?>
+                <li class="nav-item g-mx-20--lg "><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/<?php echo $v['id'];?>/" title="<?php echo $v['tag'];?>"><?php echo $v['tag'];?></a>
+                <?php }?>
+                <!-- <li class="nav-item g-mx-20--lg"><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/1364/" title="大家车言论">大家车言论</a>
                 <li class="nav-item g-mx-20--lg"><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/1439/" title="美女">美女</a>
-                <li class="nav-item g-mx-20--lg"><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/1369/" title="美女">新车评</a>
+                <li class="nav-item g-mx-20--lg"><a class="nav-link px-0" href="<?php $this->options->siteUrl(); ?>index.php/tag/1369/" title="美女">新车评</a> -->
               
               </ul>
 

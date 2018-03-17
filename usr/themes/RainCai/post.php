@@ -55,7 +55,7 @@
                     </header>
 
                     <div class="g-font-size-16 g-line-height-1_8 g-mb-30">
-                        <iframe height=600 width=100% src='http://player.youku.com/embed/<?php $this->videoId(); ?>' frameborder=0 'allowfullscreen'></iframe>
+                        <iframe height=600 width=100% src='https://player.youku.com/embed/<?php $this->videoId(); ?>' frameborder=0 'allowfullscreen'></iframe>
                     </div>
 
                     <!-- Sources & Tags -->
