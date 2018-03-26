@@ -28,30 +28,6 @@
                         </ul>
 
                         <hr class="g-brd-gray-light-v4 g-my-15">
-
-<!--                        <ul class="list-inline text-uppercase mb-0">-->
-<!--                            <li class="list-inline-item g-mr-10">-->
-<!--                                <strong class="align-middle g-font-size-24">423</strong>-->
-<!--                            </li>-->
-<!--                            <li class="list-inline-item g-mr-10">-->
-<!--                                <span class="g-color-gray-dark-v5">|</span>-->
-<!--                            </li>-->
-<!--                            <li class="list-inline-item g-mr-10">-->
-<!--                                <a class="btn u-btn-facebook g-font-size-12 rounded g-px-20--sm g-py-10" href="#!">-->
-<!--                                    <i class="fa fa-facebook g-mr-5--sm"></i> <span class="g-hidden-xs-down">Share on Facebook</span>-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                            <li class="list-inline-item g-mr-10">-->
-<!--                                <a class="btn u-btn-twitter g-font-size-12 rounded g-px-20--sm g-py-10" href="#!">-->
-<!--                                    <i class="fa fa-twitter g-mr-5--sm"></i> <span class="g-hidden-xs-down">Tweet on Twitter</span>-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                            <li class="list-inline-item">-->
-<!--                                <a class="btn u-btn-lightred g-font-size-12 rounded g-py-10" href="#!">-->
-<!--                                    <i class="fa fa-pinterest"></i>-->
-<!--                                </a>-->
-<!--                            </li>-->
-<!--                        </ul>-->
                     </header>
 
                     <div class="g-font-size-16 g-line-height-1_8 g-mb-30">
@@ -109,6 +85,16 @@
 
             </div>
             <!-- End Articles Content -->
+            <!--PC版-->
+            <div id="SOHUCS" sid="<?php echo $this->cid;?>" ></div>
+            <script charset="utf-8" type="text/javascript" src="https://changyan.sohu.com/upload/changyan.js" ></script>
+            <script type="text/javascript">
+            window.changyan.api.config({
+            appid: 'cytwLuiGe',
+            conf: 'prod_8b25e925656a4ca0759bf0af46d5b9de'
+            });
+            </script>
+
         </div>
     </div>
 

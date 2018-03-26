@@ -13,8 +13,8 @@ $this->need('header.php');
             <div class="shortcode-html">
                 <!-- Simple Colored -->
                 <ul class="u-list-inline">
-                    <?php $tagList = getIntTag(); foreach($tagList as $v){?>
-                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/<?php echo $v['id'];?>" title="<?php echo $v['tag'];?>"><?php echo $v['tag'];?></a></li>
+                    <?php $tagList = getIntTag(); foreach($tagList as $k=>$v){?>
+                    <li class="list-inline-item g-mb-10"><a class="u-tags-v1 g-color-main g-brd-around g-brd-gray-light-v3 g-bg-gray-dark-v2--hover g-brd-gray-dark-v2--hover g-color-white--hover g-py-4 g-px-10" href="/tag/<?php echo $k; ?>" title="<?php echo $v;?>"><?php echo $v;?></a></li>
                     <?php } ?>
                    
                 </ul>

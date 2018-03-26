@@ -1552,7 +1552,7 @@ hr {
   left: 0;
   right: 0;
   width: 100%;
-  font-size: 1.1878rem;
+  font-size: 0.91857rem;
   z-index: 101;
 }
 
@@ -41610,7 +41610,7 @@ pre[class*="language-"] .toolbar-item a {
   }
   /* P */
   .g-py-50 {
-    padding-top: 8.57143rem !important;
+    padding-top: 3.57143rem !important;
     padding-bottom: 3.57143rem !important;
   }
   /* P */
